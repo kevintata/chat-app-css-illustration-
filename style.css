@@ -279,7 +279,7 @@ main{
     color: hsl(228, 45%, 44%); 
 }
 
-@media screen and (max-width:1550px) {
+@media screen and (max-width:750px) {
     main{
         display: flex;
         align-items: center;
